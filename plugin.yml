@@ -1,0 +1,9 @@
+name: WorldSaver
+version: 1.0
+author: Lojaw
+main: de.lojaw.main.Main
+api-version: 1.17
+description: Saves worlds into a given folder.
+
+commands:
+   WorldSaver:
